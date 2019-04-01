@@ -606,5 +606,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
