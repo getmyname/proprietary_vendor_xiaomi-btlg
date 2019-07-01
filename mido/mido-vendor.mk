@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/bin/gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/gx_fpd \
     vendor/xiaomi/mido/proprietary/vendor/bin/mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
+    vendor/xiaomi/mido/proprietary/vendor/bin/hw/android.hardware.thermal@1.0-service:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.thermal@1.0-service \
     vendor/xiaomi/mido/proprietary/bin/perfservice:system/bin/perfservice \
     vendor/xiaomi/mido/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/xiaomi/mido/proprietary/vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
